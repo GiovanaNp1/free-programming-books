@@ -1,5 +1,6 @@
 ### Index
 
+* [Agile](#agile)
 * [Android](#android)
 * [C](#c)
 * [C#](#csharp)
@@ -41,6 +42,9 @@
     * [Angular](#angular)
 * [WordPress](#wordpress)
 
+
+### Agile
+* [Agile Explorer](https://skills.yourlearning.ibm.com/activity/PLAN-F8CBF9ECCA49) - IBM(Skillbuild)
 
 ### Android
 
@@ -335,6 +339,7 @@
 * [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso (YouTube)
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo (YouTube)
 * [TypeScript, o início, de forma prática](https://www.youtube.com/watch?v=0mYq5LrQN1s) - Rocketseat, Diego Fernandes (YouTube)
+* [Primeiros passos com TypeScript no Visual Studio Code](https://learn.microsoft.com/pt-br/shows/dx/primeiros-passos-com-typescript-no-visual-studio-code?origin=cursos.erickwendel.com.br) - Erick Wendel (Microsoft)
 
 
 #### Angular
